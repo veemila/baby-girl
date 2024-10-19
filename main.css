@@ -20,6 +20,12 @@ body {
   perspective: 1000px;
 }
 
+.menu a{
+    display: block;
+    align-items: left;
+    color: violet;
+}
+
 .night {
   position: fixed;
   left: 50%;
