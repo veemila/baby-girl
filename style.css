@@ -14,8 +14,7 @@ body{
 }
 
 .menu a{
-    display: flex;
-    flex-direction: column;
+    display: block;
     align-items: left;
     color: violet;
 }
