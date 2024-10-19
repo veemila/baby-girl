@@ -12,6 +12,13 @@ body{
     justify-content: center;
     background-color: black;
 }
+
+.menu a{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: violet;
+}
 .greetings{
     font-size: 6rem;
     font-weight: 900;
@@ -53,12 +60,6 @@ body{
     color: #111;
 }
 
-.menu a{
-    display: flex;
-    flex-direction: column;
-    align-items: left;
-    color: violet;
-}
 
 @media screen and (max-width:574px){
     .greetings{
