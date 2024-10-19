@@ -12,6 +12,12 @@ body{
     justify-content: center;
     background-color: black;
 }
+.menu a{
+    display: block;
+    align-items: left;
+    color: violet;
+}
+
 .greetings{
     font-size: 6rem;
     font-weight: 900;
