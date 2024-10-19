@@ -1391,3 +1391,10 @@ body {
 .container * {
   animation-play-state: paused !important;
 }
+
+.menu a{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: violet;
+}
