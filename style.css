@@ -14,8 +14,10 @@ body{
 }
 .menu a{
     display: block;
-    align-items: top-left;
+    align-items: left;
     color: violet;
+    top: 100%;
+    font-size: 200%;
 }
 
 .greetings{
