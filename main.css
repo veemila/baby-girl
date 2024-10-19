@@ -22,7 +22,7 @@ body {
 
 .menu a{
     display: block;
-    align-items: left;
+    align-items: top-left;
     color: violet;
 }
 
